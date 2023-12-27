@@ -71,7 +71,7 @@ let track_list = [
     name: "الله اكبر ",
     artist: "تفجير",
     image: "https://shiavoice.com/assets/img/cats/cd_abata.jpg",
-    path: "media/5b9ajo20mfcap.mp3",
+    path: "media/god.mp3",
 }
 ];
 function loadTrack(track_index) {
