@@ -67,6 +67,12 @@ let track_list = [
     image: "https://shiavoice.com/assets/img/cats/cd_abata.jpg",
     path: "media/5b9ajo20mfcap.mp3",
 },
+{
+    name: "الله اكبر ",
+    artist: "تفجير",
+    image: "https://shiavoice.com/assets/img/cats/cd_abata.jpg",
+    path: "media/5b9ajo20mfcap.mp3",
+}
 ];
 function loadTrack(track_index) {
     // Clear the previous seek timer
